@@ -16,4 +16,25 @@ Basándome en las preguntas anteriores, usaría un patrón paralelo: las 4 pieza
 
 **4. Dibuja el diagrama del sistema (papel o aquí abajo)**
 
+```
+                              ┌────────────────────────────┐
+                              │   DIRECTOR DE MARKETING    │  Fase 1: REPARTO
+                              │     Reparte los briefs     │
+                              └──────────────┬─────────────┘
+                                             │
+           ┌──────────────────────┬──────────┴───────────┬──────────────────────┐
+           ▼                      ▼                      ▼                      ▼
+┌────────────────────┐ ┌────────────────────┐ ┌────────────────────┐ ┌────────────────────┐
+│     COPYWRITER     │ │   EMAIL MARKETER   │ │    SOCIAL MEDIA    │ │     PR MANAGER     │  Fase 2:
+│   → Landing page   │ │     → 3 emails     │ │  → Posts de redes  │ │  → Nota de prensa  │  PARALELO
+└──────────┬─────────┘ └──────────┬─────────┘ └──────────┬─────────┘ └──────────┬─────────┘
+           └──────────────────────┴──────────┬───────────┴──────────────────────┘
+                                             ▼
+                              ┌────────────────────────────┐
+                              │   DIRECTOR DE MARKETING    │  Fase 3: CONSOLIDACIÓN
+                              │     Consolida y revisa     │
+                              │   → Plan de lanzamiento    │
+                              └────────────────────────────┘
+```
+
 
