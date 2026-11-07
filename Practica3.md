@@ -1,16 +1,18 @@
 # Practica 3- EDITORIAL
 
-## Tarea 1. Elige el patron de orquestación
+## Tarea 1. Elige el patrón de orquestación
 
-**1. ¿El copywritter de la landing page necesita esperar a que el email marketer termine para empezar a trabajar?**
+**1. ¿El copywriter de la landing page necesita esperar a que el email marketer termine para empezar a trabajar?**
 
-No, el copywritter de la landing page no necesita esperar a ninguno de los otros actores para realizar su trabajo. El trabajo que realizan ambos es en paralelo sobre el mismo producto que tienen que promocionar que es la FinanceAPP.
+No, el copywriter de la landing page no necesita esperar a ninguno de los otros actores para realizar su trabajo. Ambos trabajan en paralelo sobre el mismo producto, FinanzApp, y parten de los mismos datos de producto, no del resultado del otro.
 
 **2. ¿El PR manager necesita leer los posts de redes sociales para escribir la nota de prensa?**
 
-Tampoco. Son trabajos totamente independientes sobre el marketing de un mismo producto. Además y, normalmente, la estrategia de marketing en redes sociales suele ser independiente y distina de las notas de presenta. Son dos focos diferentes en cuento a audiencia y 
+Tampoco. Son trabajos totalmente independientes sobre el marketing de un mismo producto: la nota de prensa no usa nada de los posts, porque todo lo que necesita está en los datos del producto. Además, redes y prensa tienen focos diferentes en cuanto a audiencia y estilo de escritura.
 
-**3. Con tus respuestas (1) y (2): ¿Qué patron de orquestación usarías? ¿Paralelo, secuencial o Jerárquico?**
+**3. Con tus respuestas (1) y (2): ¿Qué patrón de orquestación usarías? ¿Paralelo, secuencial o Jerárquico?**
+
+Basándome en las preguntas anteriores, usaría un patrón paralelo: las 4 piezas (landing page, campaña de email, contenido para redes y nota de prensa) son independientes y ninguna necesita el resultado de otra. El Director de Marketing actúa como orquestador: reparte los briefs, los 4 especialistas trabajan a la vez y, cuando terminan, consolida todo para que la campaña sea coherente de forma integral. 
 
 **4. Dibuja el diagrama del sistema (papel o aquí abajo)**
 
