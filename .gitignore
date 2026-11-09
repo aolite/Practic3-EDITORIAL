@@ -1,3 +1,4 @@
 /venv/
 /.idea/
 /marketing_output/
+__pycache__/
